@@ -48,5 +48,5 @@ array[6] = 4;
 PrintArray(array); // распечатал массив
 Console.WriteLine();
 
-int pos = IndexOf(array, 444);
+int pos = IndexOf(array, 4);
 Console.WriteLine(pos);
